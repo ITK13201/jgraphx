@@ -32,3 +32,11 @@ There's also the API specifications at https://jgraph.github.io/mxgraph/java/doc
 There is a 'jgraphx' tag on Stackoverflow - https://stackoverflow.com/questions/tagged/jgraphx, but please ensure 
 you understand the SO FAQ and posting guidelines prior to posting. To post on SO you must 1) have a _question_ , 
 2) that question be _programming_ related and 3) use the 'jgraphx' tag.
+
+## Build JAR
+
+You can find the JAR file under the `lib` directory after executing the following command.
+
+```
+mvn package
+```
